@@ -1,1 +1,1 @@
-# service-provider
+# service-provider [![Docker Image CI](https://github.com/Dew-bench/service-provider/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Dew-bench/service-provider/actions/workflows/docker-image.yml)
