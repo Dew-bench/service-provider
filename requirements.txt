@@ -1,2 +1,3 @@
-Flask==0.10.1
-requests==2.25.0
+requests==2.26.0
+Flask==2.0.1
+pyK8sManager==0.3.3
